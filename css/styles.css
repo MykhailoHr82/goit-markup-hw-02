@@ -8,17 +8,14 @@ body{
     letter-spacing: 0.02em
 }
 
-.nav-main{text-decoration: none;
-    color:#2E2F42;
-    font-weight:500;
-    letter-spacing: 0.02em}
+
 .nav {text-decoration: none;
 color:#2E2F42;
 font-weight:500;
 letter-spacing: 0.02em
 }
-.nav-main:hover,
-.nav-main:focus{
+.nav:hover,
+.nav:focus{
     color:#404BBF;
 }
 
@@ -76,7 +73,7 @@ color:#4d5ae5;
     
 }
 .scroll-btn:hover,
-.scroll-btn:hover
+.scroll-btn:focus
 {
     background:#404BBF;
 }
