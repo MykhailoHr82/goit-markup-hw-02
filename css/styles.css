@@ -122,9 +122,19 @@ color:#2E2F42;
     color: #F4F4FD;
 }
 .logo-footer{ font-family:"Raleway",sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     font-weight: 700;
-    color:#F4F4FD;
+    color:#4d5ae5;
     text-transform:uppercase;
     text-decoration:none; }
+.web-footer{
+    color:#f4f4fd;
+}
+.text-footer{
+    line-height: inherit;
+    letter-spacing: inherit;
+}
 
     ul{list-style-type:none;}
